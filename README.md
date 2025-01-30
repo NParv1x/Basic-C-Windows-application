@@ -2,5 +2,6 @@
 
 ## Tech stack
 
-1. Windows SDK
-2. STDlib
+1. C & C++
+2. Windows SDK
+3. STDlib
